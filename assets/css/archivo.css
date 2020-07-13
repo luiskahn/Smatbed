@@ -1,0 +1,28 @@
+.titleCenter {
+	color: white;
+	font-family: 'Heebo', sans-serif;
+	font-size: 35px;
+	background-color: teal;
+}
+h3	{
+	color: teal;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	
+}
+.menu{
+	font-family: fantasy;
+	font-size: 20px;
+	color: teal;
+}
+.footercss{
+	color: black;
+	font-size: 10px;
+	font-variant-position: sub;
+}
+table tr td{
+	color: blue;
+	font-size: 20px;
+}
+#logotop{
+	
+}
